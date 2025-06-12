@@ -1,0 +1,16 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+UseTab: Never
+ColumnLimit: 120
+AllowShortIfStatementsOnASingleLine: false
+AlwaysBreakBeforeBraces: Attach
+SeparateDefinitionBlocks: Always
+AlignAfterOpenBracket: Align
+SpaceBeforeParens: ControlStatements
+BraceWrapping:
+  AfterFunction: false
+  AfterControlStatement: true
+  AfterEnum: false
+  AfterStruct: false
+  AfterUnion: false
+  BeforeElse: true
